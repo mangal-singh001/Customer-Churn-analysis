@@ -84,8 +84,14 @@ Customer-Churn-analysis/
 
 ---
 
-✅ **Summary**: This project demonstrates the full lifecycle of a Machine Learning pipeline — from **EDA to model building to evaluation** — with actionable insights for churn prevention.
+## 📝 Acknowledgement
+
+This project was developed as part of my **Data Science Internship at [Snestron Systems Pvt. Ltd.](https://snestronsystems.com/)** (July–October 2025).
+The internship focuses on applying **Machine Learning techniques to real-world problems**, and this project was one of the key assignments to strengthen my practical skills.
 
 ---
 
+✅ **Summary**: This repository demonstrates a complete ML pipeline — from **EDA to model building to evaluation** — with actionable insights for churn prevention, developed during my internship at Snestron Systems.
+
+---
 
